@@ -15,7 +15,7 @@ importers:
         specifier: ^7.0.2
         version: 7.0.2(react-router@7.0.2(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(typescript@5.7.2)
       isbot:
-        specifier: ^5.1.17
+        specifier: ^5.1.18
         version: 5.1.18
       match-sorter:
         specifier: ^8.0.0
@@ -40,13 +40,13 @@ importers:
         specifier: ^7.0.2
         version: 7.0.2(@react-router/serve@7.0.2(react-router@7.0.2(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(typescript@5.7.2))(@types/node@20.17.10)(react-router@7.0.2(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(typescript@5.7.2)(vite@5.4.11(@types/node@20.17.10))
       '@types/node':
-        specifier: ^20
+        specifier: ^20.17.10
         version: 20.17.10
       '@types/react':
-        specifier: ^19.0.1
+        specifier: ^19.0.2
         version: 19.0.2
       '@types/react-dom':
-        specifier: ^19.0.1
+        specifier: ^19.0.2
         version: 19.0.2(@types/react@19.0.2)
       cross-env:
         specifier: ^7.0.3
